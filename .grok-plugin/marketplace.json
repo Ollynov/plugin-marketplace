@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Ollynov/ball-ranks-plugin.git",
-        "sha": "106f00d0aade4ae4512a351a10649bbf248d81d8"
+        "sha": "d603dc2cf02e413c6a75bc3ecfc018b478eb99de"
       },
       "homepage": "https://ballranks.com",
       "keywords": ["ball ranks", "ballranks", "ball ranks fantasy sports"],

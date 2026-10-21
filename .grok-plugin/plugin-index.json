@@ -40,7 +40,7 @@
       }
     },
     "ball-ranks": {
-      "sha": "d603dc2cf02e413c6a75bc3ecfc018b478eb99de",
+      "sha": "8872d9a8ae25544fa7f4653e3f9865b160c6bdd1",
       "version": "0.2.0",
       "components": {
         "mcpServers": [
